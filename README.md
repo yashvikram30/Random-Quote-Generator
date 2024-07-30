@@ -98,6 +98,10 @@ If you have suggestions for improving the project or want to add more features, 
 
     Go to the original repository on GitHub and click the 'New Pull Request' button.
 
+Here is an example image:
+   ![image](https://github.com/user-attachments/assets/a5502028-fa80-4d9d-9eed-3ae7215f1678)
+
+
 
 ## Acknowledgments
 
