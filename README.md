@@ -21,7 +21,7 @@ You need a modern web browser to run this project.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/random-quote-generator.git
+    git clone https://github.com/yashvikram30/random-quote-generator.git
     ```
 
 2. **Navigate into the project directory**:
