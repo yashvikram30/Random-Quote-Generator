@@ -98,9 +98,6 @@ If you have suggestions for improving the project or want to add more features, 
 
     Go to the original repository on GitHub and click the 'New Pull Request' button.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
